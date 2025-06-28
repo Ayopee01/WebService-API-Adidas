@@ -634,50 +634,8 @@
       "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/2a3422a72de74d8aa1bfdecf983439a2_9366/Adi365_H.Koumori_JW0553_21_model.jpg"
     ]
   },
-  {
-    "id": 17,
-    "name": "เสื้อยืดวิ่ง Adi365 H.Koumori",
-    "originalPrice": 2800,
-    "clothing_sizes": [
-      {
-        "size": "S",
-        "qty": 10
-      },
-      {
-        "size": "M",
-        "qty": 10
-      },
-      {
-        "size": "L",
-        "qty": 10
-      },
-      {
-        "size": "XL",
-        "qty": 10
-      }
-    ],
-    "text-color": "Olive Strata",
-    "color": "#978a6f",
-    "detail": [
-      "ทรงเรกูลาร์",
-      "โพลีเอสเตอร์ (รีไซเคิล) 86% อีลาสเตน 14%",
-      "แทรกแถบใต้วงแขน",
-      "แต่งดีเทลสะท้อนแสง",
-      "สี: Olive Strata",
-      "รหัสสินค้า: JW0554"
-    ],
-    "category": "Shirt",
-    "img": [
-      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/e0dd85f88ead40459b7731827bd5139c_9366/Adi365_H.Koumori_JW0554_HM30.jpg",
-      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/3d8f73d07c7045d2a61be4a2f6f942c3_9366/Adi365_H.Koumori_JW0554_HM1.jpg",
-      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/44d373ec826b4a6db162ec4a738c7bf7_9366/Adi365_H.Koumori_JW0554_HM9.jpg",
-      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/5f282e2f5538435c82ae54c60cdf197a_9366/Adi365_H.Koumori_JW0554_HM7.jpg",
-      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/76a0c48fb84540c19e73c27edbea7adf_9366/Adi365_H.Koumori_JW0554_HM6.jpg",
-      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/32bc6d7da2434196a1285f4ae040ca62_9366/Adi365_H.Koumori_JW0554_HM3_hover.jpg"
-    ]
-  },
-
-
+  
+  
   {
     "id": 8,
     "name": "รองเท้าวิ่ง Switch Run",
