@@ -1526,5 +1526,404 @@
       "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/bee3bf0eb33a4c678a11492331c48b36_9366/Beyond_JF4865_23_hover_model.jpg",
       "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/6b64edc8fc8e4c65bb97f9b3e7eb0aaa_9366/Beyond_JF4865_42_detail.jpg"
     ]
+  },
+  {
+    "id": 26,
+    "name": "กางเกงขายาวผ้าทอสองหน้า Real Madrid UBP",
+    "originalPrice": 2600,
+    "clothing_sizes": [
+      {
+        "size": "S",
+        "qty": 10
+      },
+      {
+        "size": "M",
+        "qty": 10
+      },
+      {
+        "size": "L",
+        "qty": 10
+      },
+      {
+        "size": "XL",
+        "qty": 10
+      }
+    ],
+    "text-color": "Light Solid Grey / White",
+    "color": "White",
+    "category": "Pants",
+    "detail": [
+      "ทรงเรกูลาร์",
+      "มีเชือกรูดเปิดปิด",
+      "คอตตอน 66% โพลีเอสเตอร์ (รีไซเคิล) 34%",
+      "มีกระเป๋าด้านหน้า",
+      "แต่งตราสโมสรเรอัลมาดริด",
+      "สี: Light Solid Grey / White",
+      "รหัสสินค้า: JN3070"
+    ],
+    "img": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/59177cdb48ef4fa0823442ecd7547858_9366/Real_Madrid_UBP_JN3070_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/da1a86af5fe549299692dc45c4614a8c_9366/Real_Madrid_UBP_JN3070_25_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c3070398eb244e28ff071025dca7f59_9366/Real_Madrid_UBP_JN3070_23_hover_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/0d2121091bbc490db310350f97870c38_9366/Real_Madrid_UBP_JN3070_21_model.jpg"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "กางเกงแทรค David Beckham Originals",
+    "originalPrice": 3500,
+    "clothing_sizes": [
+      {
+        "size": "S",
+        "qty": 10
+      },
+      {
+        "size": "M",
+        "qty": 10
+      },
+      {
+        "size": "L",
+        "qty": 10
+      },
+      {
+        "size": "XL",
+        "qty": 10
+      }
+    ],
+    "text-color": "Bright Royal",
+    "color": "#0082ce",
+    "category": "Pants",
+    "detail": [
+      "ทรงเรกูลาร์",
+      "เอวยางยืด มีเชือกผูก",
+      "โพลีเอสเตอร์ (รีไซเคิล) 70% คอตตอน 30%",
+      "สี: Bright Royal",
+      "รหัสสินค้า: JM6289"
+    ],
+    "img": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/3a5f7bb03e814b978a13b5f362395c8d_9366/David_Beckham_Originals_JM6289_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/7308d72675ce4ca0958b427b4d0bc5f2_9366/David_Beckham_Originals_JM6289_25_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/49c4d30aa59c4891ad684a1259627b1e_9366/David_Beckham_Originals_JM6289_23_hover_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/b507af87d055415097953f385462120d_9366/David_Beckham_Originals_JM6289_21_model.jpg"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "กางเกงขายาวทีม Mercedes - AMG Petronas Formula One Silver Arrows",
+    "originalPrice": 3000,
+    "clothing_sizes": [
+      {
+        "size": "S",
+        "qty": 10
+      },
+      {
+        "size": "M",
+        "qty": 10
+      },
+      {
+        "size": "L",
+        "qty": 10
+      },
+      {
+        "size": "XL",
+        "qty": 10
+      }
+    ],
+    "text-color": "Grey Five",
+    "color": "#828083",
+    "category": "Pants",
+    "detail": [
+      "ทรงเรกูลาร์",
+      "มีเชือกรูด",
+      "โพลีเอสเตอร์ (รีไซเคิล) 57% คอตตอน 43%",
+      "ผ้า adidas PRIMEKNIT",
+      "สี: Grey Five",
+      "รหัสสินค้า: JW3478"
+    ],
+    "img": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/263b1d4342d040999d0b9caa1937a85c_9366/Mercedes_-_AMG_Petronas_Formula_One_Silver_Arrows_JW3478_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/f0a9fb53017948c8ac14fa82aaed11ea_9366/Mercedes_-_AMG_Petronas_Formula_One_Silver_Arrows_JW3478_25_model_hover.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/7a25ca88a1bf4e139cf61445a1174486_9366/Mercedes_-_AMG_Petronas_Formula_One_Silver_Arrows_JW3478_23_hover_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/4fd2177ca4854b3eb11e479375d9a6f3_9366/Mercedes_-_AMG_Petronas_Formula_One_Silver_Arrows_JW3478_21_model.jpg"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "REAL ICON TP",
+    "originalPrice": 3600,
+    "clothing_sizes": [
+      {
+        "size": "S",
+        "qty": 10
+      },
+      {
+        "size": "M",
+        "qty": 10
+      },
+      {
+        "size": "L",
+        "qty": 10
+      },
+      {
+        "size": "XL",
+        "qty": 10
+      }
+    ],
+    "text-color": "Blue Bird",
+    "color": "#01a6f6",
+    "category": "Pants",
+    "detail": [
+      "ทรงเรกูลาร์",
+      "เอวยางยืด มีเชือกผูก",
+      "โพลีเอสเตอร์ (รีไซเคิล) 70% คอตตอน 30%",
+      "สี: Blue Bird",
+      "รหัสสินค้า: JN3057"
+    ],
+    "img": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/f7c0578ad74044b98fa5fa000407bb38_9366/REAL_ICON_TP_JN3057_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/db5a14aeafab46979361a24efb342866_9366/REAL_ICON_TP_JN3057_25_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/24587a4b5c4d431984f2e77719b5ab76_9366/REAL_ICON_TP_JN3057_23_hover_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/36360f4e5dd84a74aaa15df9357dda3b_9366/REAL_ICON_TP_JN3057_21_model.jpg"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "กางเกงแทรคทอแบบขูดขน",
+    "originalPrice": 2800,
+    "clothing_sizes": [
+      {
+        "size": "S",
+        "qty": 10
+      },
+      {
+        "size": "M",
+        "qty": 10
+      },
+      {
+        "size": "L",
+        "qty": 10
+      },
+      {
+        "size": "XL",
+        "qty": 10
+      }
+    ],
+    "text-color": "Collegiate Green",
+    "color": "#026059",
+    "category": "Pants",
+    "detail": [
+      "ทรงเรกูลาร์",
+      "เอวยางยืด มีเชือกผูก",
+      "โพลีเอสเตอร์ (รีไซเคิล) 100%",
+      "มีกระเป๋าซิปด้านข้าง",
+      "สี: Collegiate Green",
+      "รหัสสินค้า: JX3079"
+    ],
+    "img": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/81c94e79205e4dc99519e15e5c06857d_9366/JX3079_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/ac6cd061ac3948a998238697ac503642_9366/JX3079_25_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/eeadf0fd11ef4bb787dcdecf29c546bc_9366/JX3079_23_hover_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/078a5bc3983d4a1b9a122db55b7656bf_9366/JX3079_21_model.jpg"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "กางเกงคาร์โก Adicolor Classics 3-Stripes",
+    "originalPrice": 3400,
+    "clothing_sizes": [
+      {
+        "size": "S",
+        "qty": 10
+      },
+      {
+        "size": "M",
+        "qty": 10
+      },
+      {
+        "size": "L",
+        "qty": 10
+      },
+      {
+        "size": "XL",
+        "qty": 10
+      }
+    ],
+    "text-color": "Trace Brown",
+    "color": "#b79a8d",
+    "category": "Pants",
+    "detail": [
+      "ทรงหลวม",
+      "เอวยางยืด มีเชือกผูก",
+      "ไนลอน (รีไซเคิล) 100%",
+      "มีกระเป๋าซิปด้านข้าง",
+      "มีกระเป๋าคาร์โกติดกระดุมพร้อมแฟลป",
+      "ชายกางเกงมีเชือกบันจี้รูดปรับกระชับ",
+      "สี: Trace Brown",
+      "รหัสสินค้า: JP1025"
+    ],
+    "img": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/94be0effa57b4f0f8c1c13a93d4f8acc_9366/Adicolor_Classics_3-Stripes_JP1025_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/fd5df341ed5546d88481ea8ca1e4f722_9366/Adicolor_Classics_3-Stripes_JP1025_25_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/b0a2b1c9f33048b0b5bca8b5bace06eb_9366/Adicolor_Classics_3-Stripes_JP1025_23_hover_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/98e53dedf424464687c4759b1744604d_9366/Adicolor_Classics_3-Stripes_JP1025_21_model.jpg"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "กางเกงคาร์โก Adicolor Classics 3-Stripes",
+    "originalPrice": 3400,
+    "clothing_sizes": [
+      {
+        "size": "S",
+        "qty": 10
+      },
+      {
+        "size": "M",
+        "qty": 10
+      },
+      {
+        "size": "L",
+        "qty": 10
+      },
+      {
+        "size": "XL",
+        "qty": 10
+      }
+    ],
+    "text-color": "Night Indigo",
+    "color": "#2b3656",
+    "category": "Pants",
+    "detail": [
+      "ทรงหลวม",
+      "เอวยางยืด มีเชือกผูก",
+      "ไนลอน (รีไซเคิล) 100%",
+      "มีกระเป๋าซิปด้านข้าง",
+      "มีกระเป๋าคาร์โกติดกระดุมพร้อมแฟลป",
+      "ชายกางเกงมีเชือกบันจี้รูดปรับกระชับ",
+      "สี: Night Indigo",
+      "รหัสสินค้า: HR3362"
+    ],
+    "img": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/0bd5afe6a10f4d01a9c7af1200ddf81d_9366/Adicolor_Classics_3-Stripes_HR3362_01_laydown.jpg"
+  },
+  {
+    "id": 33,
+    "name": "กางเกงคาร์โก Adicolor Classics 3-Stripes",
+    "originalPrice": 3400,
+    "clothing_sizes": [
+      {
+        "size": "S",
+        "qty": 10
+      },
+      {
+        "size": "M",
+        "qty": 10
+      },
+      {
+        "size": "L",
+        "qty": 10
+      },
+      {
+        "size": "XL",
+        "qty": 10
+      }
+    ],
+    "text-color": "Black",
+    "color": "Black",
+    "category": "Pants",
+    "detail": [
+      "ทรงหลวม",
+      "เอวยางยืด มีเชือกผูก",
+      "ไนลอน (รีไซเคิล) 100%",
+      "มีกระเป๋าซิปด้านข้าง",
+      "มีกระเป๋าคาร์โกติดกระดุมพร้อมแฟลป",
+      "ชายกางเกงมีเชือกบันจี้รูดปรับกระชับ",
+      "สี: Black",
+      "รหัสสินค้า: HR3364"
+    ],
+    "img": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/0bd5afe6a10f4d01a9c7af1200ddf81d_9366/Adicolor_Classics_3-Stripes_HR3362_01_laydown.jpg"
+  },
+  {
+    "id": 34,
+    "name": "กางเกงชิโน Ultimate365",
+    "originalPrice": 3500,
+    "clothing_sizes": [
+      {
+        "size": "S",
+        "qty": 10
+      },
+      {
+        "size": "M",
+        "qty": 10
+      },
+      {
+        "size": "L",
+        "qty": 10
+      },
+      {
+        "size": "XL",
+        "qty": 10
+      }
+    ],
+    "text-color": "Putty Beige",
+    "color": "#bfb6aa",
+    "category": "Pants",
+    "detail": [
+      "ทรงเรกูลาร์",
+      "มีห่วงเข็มขัดที่เอว",
+      "ไนลอนรีไซเคิล 95% อีลาสเตนทวิล 5%",
+      "เป้ากางเกงมีซิป",
+      "มีกระเป๋าด้านหน้าและหลัง",
+      "ขากางเกงทรงกระบอก",
+      "สี: Putty Beige",
+      "รหัสสินค้า: JJ1754"
+    ],
+    "img": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/088d69c4fb184a4f98140098cda7a1b3_9366/Ultimate365_JJ1754_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/43b26acb7f09417c86fff205b7cbb3ee_9366/Ultimate365_JJ1754_25_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/a863db62095f4582b1e676ce6dd66572_9366/Ultimate365_JJ1754_23_hover_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/adbf6eab7cdf4222ab211a342dd2298c_9366/Ultimate365_JJ1754_21_model.jpg"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "กางเกงชิโน Ultimate365",
+    "originalPrice": 3500,
+    "clothing_sizes": [
+      {
+        "size": "S",
+        "qty": 10
+      },
+      {
+        "size": "M",
+        "qty": 10
+      },
+      {
+        "size": "L",
+        "qty": 10
+      },
+      {
+        "size": "XL",
+        "qty": 10
+      }
+    ],
+    "text-color": "Black",
+    "color": "Black",
+    "category": "Pants",
+    "detail": [
+      "ทรงเรกูลาร์",
+      "มีห่วงเข็มขัดที่เอว",
+      "ไนลอนรีไซเคิล 95% อีลาสเตนทวิล 5%",
+      "เป้ากางเกงมีซิป",
+      "มีกระเป๋าด้านหน้าและหลัง",
+      "ขากางเกงทรงกระบอก",
+      "สี: Black",
+      "รหัสสินค้า: IQ2942"
+    ],
+    "img": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/393d3848181e43b3a2a92a602cbc2c44_9366/Ultimate365_IQ2942_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/9d83c3e7bbec4e09b788ce75c0eec73f_9366/Ultimate365_IQ2942_25_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/5af45b306fa148689e9caa8a703b5c7e_9366/Ultimate365_IQ2942_23_hover_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/732ef6ab14da460996525873dde60c26_9366/Ultimate365_IQ2942_21_model.jpg"
+    ]
   }
 ]
