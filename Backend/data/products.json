@@ -2444,7 +2444,7 @@
       "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/009d6444f46f4400b38a595d30d74494_9366/Adizero_Sl2_IF6747_03_standard.jpg"
     ]
   },
-    {
+  {
     "id": 38,
     "name": "รองเท้าวิ่ง Adizero Sl2X",
     "originalPrice": 3600,
@@ -2532,20 +2532,8 @@
       "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/1c6b5d0b9a4b450594b2553181e5276d_9366/Adizero_Sl2_IH8192_HM6.jpg"
     ]
   },
-
-
-
-
-
-
-
-
-
-
-
-
   {
-    "id": 28,
+    "id": 39,
     "name": "กางเกงขาสั้นผ้าซิงเกิลเจอร์ซีย์ Essentials 3",
     "price": 770,
     "discount": 30,
@@ -2588,7 +2576,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 40,
     "name": "กางเกงขาสั้นผ้าซิงเกิลเจอร์ซีย์ Essentials 3",
     "price": 770,
     "discount": 30,
@@ -2631,7 +2619,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 50,
     "name": "กางเกงขายาว Z.N.E.",
     "originalPrice": 2800,
     "clothing_sizes": [
@@ -2673,7 +2661,7 @@
     ]
   },
   {
-    "id": 22,
+    "id": 250,
     "name": "กางเกงขายาว Z.N.E.",
     "originalPrice": 2800,
     "clothing_sizes": [
