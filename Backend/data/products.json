@@ -322,8 +322,8 @@
   },
   {
     "id": 9,
-    "name": "เสื้อยืดสำหรับวิ่ง (สำหรับทุกเพศ) Adi365 H.Koumori",
-    "originalPrice": 2400,
+    "name": "เสื้อเชิ้ต Mercedes - AMG Petronas Formula One Team Summer",
+    "originalPrice": 2000,
     "clothing_sizes": [
       {
         "size": "S",
@@ -342,22 +342,21 @@
         "qty": 10
       }
     ],
-    "text-color": "Alumina",
-    "color": "#e2dccd",
+    "text-color": "Beige",
+    "color": "#dbd4ce",
     "detail": [
       "ทรงหลวม",
-      "คอสูง",
       "คอตตอน 100%",
-      "ช่องกระเป๋าด้านหลังขวา",
-      "สี: Alumina",
-      "รหัสสินค้า: JM4246"
+      "แต่งโลโก้ทีม Mercedes - AMG Petronas Formula One",
+      "สี: Beige",
+      "รหัสสินค้า: KE7900"
     ],
     "category": "Shirt",
     "img": [
-      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/84fa446307244b118b34dbb5fa318286_9366/Adi365_H.Koumori_JM4246_HM5.jpg",
-      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/9f50dcaec76045839d93a5c468662015_9366/Adi365_H.Koumori_JM4246_HM4.jpg",
-      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/a4b52c0ae305430a96ef723e8d4c9535_9366/Adi365_H.Koumori_JM4246_HM3_hover.jpg",
-      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/a4b9875d79894db6a53969798245453e_9366/Adi365_H.Koumori_JM4246_HM1.jpg"
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c05bb986bb3455c81bed30128d988f5_9366/Mercedes_-_AMG_Petronas_Formula_One_Team_Summer_KE7900_01_laydown_hover.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/d49b17c65fcd49cd82e3864f9d56017a_9366/Mercedes_-_AMG_Petronas_Formula_One_Team_Summer_KE7900_25_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/cc9ac8c47fdc4f9dbdd08860e1a97f43_9366/Mercedes_-_AMG_Petronas_Formula_One_Team_Summer_KE7900_23_hover_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/1f03379e0651469f8e7cdff6d6cb8ebe_9366/Mercedes_-_AMG_Petronas_Formula_One_Team_Summer_KE7900_21_model.jpg"
     ]
   },
   {
@@ -401,13 +400,6 @@
       "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/2d4f37512ff945a7b327131998f6def8_9366/Tennis_Pro_Climacool_JL9677_21_model.jpg"
     ]
   },
-
-
-
-
-
-
-
   {
     "id": 11,
     "name": "เสื้อเชิ้ต Real Madrid US Pack",
@@ -448,9 +440,6 @@
       "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/9d011ef59d9c4c04a154d23a2572a963_9366/Real_Madrid_US_Pack_JN3073_21_model.jpg"
     ]
   },
-
-
-
   {
     "id": 12,
     "name": "D4T X SL TEE",
@@ -489,9 +478,6 @@
       "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/767926f5c0094f9c963d8fb817a216f1_9366/D4T_X_SL_TEE_KB9832_21_model.jpg"
     ]
   },
-
-
-
   {
     "id": 13,
     "name": "D4T X SL TEE",
@@ -569,9 +555,6 @@
       "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/93ea8c167a774cb3808a2ac37249c0f4_9366/Mercedes_-_AMG_Petronas_Formula_One_Team_Summer_JX4285_23_model.jpg"
     ]
   },
-
-
-
   {
     "id": 15,
     "name": "เสื้อยืด Mercedes - AMG Petronas Formula One Team Summer",
@@ -611,9 +594,6 @@
       "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/f58a73865f8c4f82b1251937d6bbecc2_9366/Mercedes_-_AMG_Petronas_Formula_One_Team_Summer_JW3363_21_model.jpg"
     ]
   },
-
-
-
   {
     "id": 16,
     "name": "เสื้อยืดวิ่ง Adi365 H.Koumori",
@@ -654,8 +634,6 @@
       "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/2a3422a72de74d8aa1bfdecf983439a2_9366/Adi365_H.Koumori_JW0553_21_model.jpg"
     ]
   },
-
-
   {
     "id": 17,
     "name": "เสื้อยืดวิ่ง Adi365 H.Koumori",
@@ -698,8 +676,6 @@
       "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/32bc6d7da2434196a1285f4ae040ca62_9366/Adi365_H.Koumori_JW0554_HM3_hover.jpg"
     ]
   },
-
-
 
 
   {
@@ -2320,8 +2296,8 @@
   },
   {
     "id": 35,
-    "name": "กางเกงคาร์โกขายาวระบายอากาศ Y-3",
-    "originalPrice": 13000,
+    "name": "กางเกงเทรนนิงขายาว Jude Bellingham",
+    "originalPrice": 2000,
     "clothing_sizes": [
       {
         "size": "S",
@@ -2344,22 +2320,19 @@
     "color": "Black",
     "category": "Pants",
     "detail": [
-      "ทรงหลวม",
-      "เป้ากางเกงติดซิป เอวยางยืด และมีเข็มขัดในตัวพร้อมตัวล็อก FIDLOCK®",
-      "คอตตอน 67% โพลีเอสเตอร์ (รีไซเคิล) 30% อีลาสเตน 3%",
-      "สัมผัสแห้งสบาย",
-      "มีช่องกระเป๋าแบบเจาะด้านหน้า และช่องกระเป๋าแต่งแฟลปด้านขว",
-      "มีกระเป๋าด้านหลังแต่งกระดุม",
-      "ช่องระบายอากาศติดกระดุมแป๊กพร้อมอันเดอร์เลย์ผ้าตาข่าย",
-      "แต่งโลโก้ Y-3",
+      "ทรงเรกูลาร์",
+      "เอวยางยืด มีเชือกผูก",
+      "โพลีเอสเตอร์ (รีไซเคิล) 100%",
+      "เทคโนโลยี AEROREADY",
+      "แต่งโลโก้ Jude Bellingham",
       "สี: Black",
-      "รหัสสินค้า: JI7086"
+      "รหัสสินค้า: JX1973"
     ],
     "img": [
-      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/faebff847af14c3ebecce074b351fb85_9366/Y-3_JI7086_25_model.jpg",
-      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/dd6fb634a1664a5ba79a45cb615e81c6_9366/Y-3_JI7086_23_hover_model.jpg",
-      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/0bbacfcdada24b78858e3bd8ff798ef0_9366/Y-3_JI7086_22_model_hover.jpg",
-      "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6b8d20792d6f4baca5e1532c73c8e07d_9366/Y-3_JI7086_21_model.jpg"
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/1de44a9f65354c8daf3d6382be18468c_9366/Jude_Bellingham_JX1973_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/89111b66885e4be5b786275f1bfdb8d0_9366/Jude_Bellingham_JX1973_25_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/b6c12c1c95824a5b8440ff24c1ea5281_9366/Jude_Bellingham_JX1973_23_hover_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/ad523dabf2c745439568b8c944feefe6_9366/Jude_Bellingham_JX1973_21_model.jpg"
     ]
   }
 ]
