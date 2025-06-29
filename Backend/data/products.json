@@ -3287,6 +3287,8 @@
   {
     "id": 57,
     "name": "กางเกงขายาว Future Icons 3-Stripes",
+    "price": 1540,
+    "discount": 30,
     "originalPrice": 2200,
     "clothing_sizes": [
       {
@@ -3329,6 +3331,8 @@
   {
     "id": 58,
     "name": "กางเกงขายาว Future Icons 3-Stripes",
+    "price": 1540,
+    "discount": 30,
     "originalPrice": 2200,
     "clothing_sizes": [
       {
@@ -3371,6 +3375,8 @@
   {
     "id": 59,
     "name": "กางเกงจ็อกเกอร์กอล์ฟ Beyond",
+    "price": 2450,
+    "discount": 30,
     "originalPrice": 3500,
     "clothing_sizes": [
       {
