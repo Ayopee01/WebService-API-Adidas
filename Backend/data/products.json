@@ -2621,6 +2621,8 @@
   {
     "id": 41,
     "name": "กางเกงขาสั้น Designed-for-Training 3-Stripes",
+    "price": 1280,
+    "discount": 20,
     "originalPrice": 1600,
     "clothing_sizes": [
       {
