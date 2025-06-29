@@ -3143,7 +3143,7 @@
       }
     ],
     "text-color": "Team Navy",
-    "color": "#",
+    "color": "#2f3457",
     "detail": [
       "ทรงหลวม",
       "เอวยางยืด มีเชือกผูก",
@@ -3162,6 +3162,46 @@
   },
   {
     "id": 54,
+    "name": "กางเกงขาสั้น Squadra 25",
+    "originalPrice": 700,
+    "clothing_sizes": [
+      {
+        "size": "S",
+        "qty": 10
+      },
+      {
+        "size": "M",
+        "qty": 10
+      },
+      {
+        "size": "L",
+        "qty": 10
+      },
+      {
+        "size": "XL",
+        "qty": 10
+      }
+    ],
+    "text-color": "Black",
+    "color": "Black",
+    "detail": [
+      "ทรงเรกูลาร์",
+      "เอวยางยืด มีเชือกผูก",
+      "โพลีเอสเตอร์ (รีไซเคิล) 100%",
+      "AEROREADY",
+      "สี: Black",
+      "รหัสสินค้า: JH3402"
+    ],
+    "category": "Shorts",
+    "img": [
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/bc7199c2e8124cdaa4dcbdcb38a302b9_9366/Squadra_25_JH3402_01_laydown.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/7fe3b8ba56b14f9783b67345d23437c3_9366/Squadra_25_JH3402_25_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/dce8330ac8324b0290102a4a3522f737_9366/Squadra_25_JH3402_21_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/38b108cd5fd04bc68b59cf724c854689_9366/Squadra_25_JH3402_23_hover_model.jpg"
+    ]
+  },
+  {
+    "id": 55,
     "name": "กางเกงขายาว Z.N.E.",
     "originalPrice": 2800,
     "clothing_sizes": [
@@ -3203,7 +3243,7 @@
     ]
   },
   {
-    "id": 55,
+    "id": 56,
     "name": "กางเกงขายาว Z.N.E.",
     "originalPrice": 2800,
     "clothing_sizes": [
@@ -3245,7 +3285,7 @@
     ]
   },
   {
-    "id": 56,
+    "id": 57,
     "name": "กางเกงขายาว Future Icons 3-Stripes",
     "originalPrice": 2200,
     "clothing_sizes": [
@@ -3287,7 +3327,7 @@
     ]
   },
   {
-    "id": 57,
+    "id": 58,
     "name": "กางเกงขายาว Future Icons 3-Stripes",
     "originalPrice": 2200,
     "clothing_sizes": [
@@ -3329,7 +3369,7 @@
     ]
   },
   {
-    "id": 58,
+    "id": 59,
     "name": "กางเกงจ็อกเกอร์กอล์ฟ Beyond",
     "originalPrice": 3500,
     "clothing_sizes": [
@@ -3370,7 +3410,7 @@
     ]
   },
   {
-    "id": 59,
+    "id": 60,
     "name": "กางเกงขายาวผ้าทอสองหน้า Real Madrid UBP",
     "originalPrice": 2600,
     "clothing_sizes": [
@@ -3411,7 +3451,7 @@
     ]
   },
   {
-    "id": 60,
+    "id": 61,
     "name": "กางเกงแทรค David Beckham Originals",
     "originalPrice": 3500,
     "clothing_sizes": [
@@ -3450,7 +3490,7 @@
     ]
   },
   {
-    "id": 61,
+    "id": 62,
     "name": "กางเกงขายาวทีม Mercedes - AMG Petronas Formula One Silver Arrows",
     "originalPrice": 3000,
     "clothing_sizes": [
@@ -3490,7 +3530,7 @@
     ]
   },
   {
-    "id": 62,
+    "id": 63,
     "name": "REAL ICON TP",
     "originalPrice": 3600,
     "clothing_sizes": [
@@ -3529,7 +3569,7 @@
     ]
   },
   {
-    "id": 63,
+    "id": 64,
     "name": "กางเกงแทรคทอแบบขูดขน",
     "originalPrice": 2800,
     "clothing_sizes": [
@@ -3569,7 +3609,7 @@
     ]
   },
   {
-    "id": 64,
+    "id": 65,
     "name": "กางเกงคาร์โก Adicolor Classics 3-Stripes",
     "originalPrice": 3400,
     "clothing_sizes": [
@@ -3611,7 +3651,7 @@
     ]
   },
   {
-    "id": 65,
+    "id": 66,
     "name": "กางเกงชิโน Ultimate365",
     "originalPrice": 3500,
     "clothing_sizes": [
@@ -3653,7 +3693,7 @@
     ]
   },
   {
-    "id": 66,
+    "id": 67,
     "name": "กางเกงชิโน Ultimate365",
     "originalPrice": 3500,
     "clothing_sizes": [
@@ -3695,7 +3735,7 @@
     ]
   },
   {
-    "id": 67,
+    "id": 68,
     "name": "กางเกงเทรนนิงขายาว Train Essentials",
     "originalPrice": 2000,
     "clothing_sizes": [
@@ -3739,7 +3779,7 @@
     ]
   },
   {
-    "id": 68,
+    "id": 69,
     "name": "กางเกงเทรนนิงขายาว Jude Bellingham",
     "originalPrice": 2000,
     "clothing_sizes": [
